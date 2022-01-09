@@ -3,8 +3,6 @@
 
 <p align="center">
 
-<img align="right" width="200" height="200" src="https://avatars.githubusercontent.com/u/54895667?s=96&v=4">
-
 ### :sunglasses: About
 
 ​	Hi！🙉
