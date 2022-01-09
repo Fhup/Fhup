@@ -1,4 +1,3 @@
-![header.png](https://api.lyiqk.cn/bing)
 
 <h2 style="color:green"><i>Fhup</i></h2>
 
