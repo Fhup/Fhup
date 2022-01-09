@@ -1,11 +1,7 @@
 
 <h2 style="color:green"><i>Hello Fhup 👨‍💻</i></h2>
 
-<hr>
-
-
 <p align="center">
-
 
 <img align="right" width="200" height="200" src="https://avatars.githubusercontent.com/u/54895667?s=96&v=4">
 
@@ -13,9 +9,9 @@
 
 ​	Hi！🙉
 
-​ 前端：🔆🉑
+​ 前端: 🉑
 
-​ 格言: ​ 计算机没有黑魔法.🏆
+​ 格言: 🏆计算机没有黑魔法.
 
 <br/>
 
