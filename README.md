@@ -13,7 +13,7 @@
 
 <br/>
 
-### 🤝🏻 Tech Stack
+### 👨‍🔧‍ Tech Stack
 
 <br/>
 
