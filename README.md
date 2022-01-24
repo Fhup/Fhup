@@ -57,7 +57,8 @@
 
 <br/>
 
-![foot.png](https://cdn.jsdelivr.net/gh/flipped-1121/APIPIC@master/scenery/862.jpg)
+![foot.png](https://api.lyiqk.cn/bing)
+
 
 
 
