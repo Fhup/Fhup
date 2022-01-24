@@ -3,9 +3,7 @@
 
 <p align="center">
 
-### :sunglasses:
-
-​ 🏆 计算机没有黑魔法.
+### 🏆 计算机没有黑魔法.
 
 <br/>
 
