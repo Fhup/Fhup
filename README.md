@@ -59,7 +59,7 @@
 
 <br/>
 
-![foot.png](https://api.lyiqk.cn/bing)
+![foot.png](https://api.lyiqk.cn/)
 
 
 
