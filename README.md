@@ -59,8 +59,7 @@
 
 <br/>
 
-![foot.png](https://api.lyiqk.cn/)
-
+![foot.png](https://ossbao.oss-cn-qingdao.aliyuncs.com/github/foot.png)
 
 
 
